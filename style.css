@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	background-color: white;
+	font-family: 'Bree Serif', serif;
+	/*font-size: 30px;*/
+}
+
+.main{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+    
+.main-heading{
+    height: 120px;
+    align-items: center;
+    margin: 0px;
+    font-size: 35px;
+    display: contents;
+    display: flex;
+    justify-content: center;
+	flex-direction:row;
+    /* background-color: #c10506; */
+    background-image: linear-gradient(black,black,black,#d2af8b, #c10506,#c10506);
+    color: white;
+    width: 175px;
+}
+h1{
+    margin: 30px;
+    justify-content: flex-start;
+    display: flex;
+}
+p{
+    font-size: 16px;
+    text-align: left;
+    padding-left: 15px;
+}
+
+img{
+	height: 103px;
+	width: 100px;
+}
+div{
+    border: 2px solid black;
+}
